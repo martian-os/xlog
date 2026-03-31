@@ -1,0 +1,16 @@
+# MathJax Block
+
+$$
+\frac{a}{b}
+$$
+
+# Inline MathJax
+
+Hello $a^2+b^2=c^2$ world.
+.
+<p>
+$$
+\frac{a}{b}
+$$
+</p>
+<p>Hello \(a^2+b^2=c^2\) world.</p>
